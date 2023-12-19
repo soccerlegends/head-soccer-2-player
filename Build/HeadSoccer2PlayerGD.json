@@ -1,0 +1,14 @@
+{
+"companyName": "DefaultCompany",
+"productName": "HeadSoccer2Player",
+"dataUrl": "HeadSoccer2PlayerGD.data.unityweb",
+"wasmCodeUrl": "HeadSoccer2PlayerGD.wasm.code.unityweb",
+"wasmFrameworkUrl": "HeadSoccer2PlayerGD.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "HeadSoccer2PlayerGD.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"}
+}
